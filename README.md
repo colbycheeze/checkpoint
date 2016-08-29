@@ -49,5 +49,5 @@ A place to track some checkpoint related stuff
  - [ ] React Native / Mobile development
 
 ## References
- - [Getting to band 8](https://ibm.app.box.com/notes/71108643189?s=d0q6wvyb2fcx90bzweeew4242cse343b)
+ - [Getting to band 8](https://github.com/colbycheeze/checkpoint/blob/master/BAND8.md)
  - [Checkpoint Goals](https://performancemanager4.successfactors.com/sf/goals)
