@@ -26,3 +26,8 @@
   - Can be approached as an expert by other front end devs for guidance on best practices
   - Understand the various products within Bluemix and how users might use them
   - Can understand and speak about comparisons between our offerings and competitors
+
+### Take a role in Softlayer/Bluemix integration
+ - Look for pain points and areas of opportunity.
+ - Document and raise issues where feasible.
+ - Find ways to use Softlayer services in demos and by dev advocates.
